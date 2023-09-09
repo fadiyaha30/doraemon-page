@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Doraemon TV</title>
+	<link rel="stylesheet" href="assets/style/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+	<header>
+		<div class="jumbotron">
+		   <h1>DORAEMON TV</h1>
+		   <p>Mau nonton Doraemon gratis sepuasnya tanpa iklan? Disini lengkap! Nonton disini aja!</p>
+	   </div>
+	   <nav>
+		   <ul class="drop-down closed">
+			   <li><a href="#l" class="nav-button">Pilih Tahun</a></li>
+			   <li><a href="#erabaru">1980-1990</a></li>
+			   <li><a href="#eratengah">1991-2005</a></li>
+			   <li><a href="#erabaru">2006-2020</a></li>
+		   </ul>
+	   </nav>
+	   <div class="btn-wrapper">
+          <a href="#" class="btn signup">Sign up</a>
+          <a href="#" class="btn login">Log in</a>
+        </div>
+	</header>
+	<main>
+		<img src="assets/images/doraemondkk.jpg" class="featured-image">
+		<div id="content">
+			<article id="erajadul">
+				<h2 id="erajadul">1980-1990</h2>
+					<ul>
+						<li><a href="#">Doraemon dan Dinosaurus Nobita '(1980)'</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Luar Angkasa '(1981)'</a></li>
+						<li><a href="#">Doraemon: Nobita di Dunia Misteri '(1982)'</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita Di Dasar Laut '(1983)'</a></li>
+						<li><a href="#">Doraemon: Nobita di Dunia Setan '(1984)'</a></li>
+						<li><a href="#">Doraemon: Nobita dalam Perang Luar Angkasa '(1985)'</a></li>
+						<li><a href="#">Doraemon: Nobita dan Pasukan Robot '(1986)'</a></li>
+						<li><a href="#">Doraemon: Nobita dan Ksatria Dinosaurus '(1987)'</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita ke Dunia Barat '(1988)'</a></li>
+						<li><a href="#">Doraemon: Nobita dan Asal Usul Negeri Jepang '(1989')</a></li>
+						<li><a href="#">Doraemon: Nobita di Planet Binatang (1990)</a></li>
+					</ul>
+			</article>
+			<article id="eratengah">
+				<h2 id="eratengah">1991-2005</h2>
+					<ul>
+						<li><a href="#">Doraemon: Nobita di Negeri 1001 Malam (1991)</a></li>
+						<li><a href="#">Doraemon: Nobita di Kerajaan Awan (1992)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Labirin Kaleng (1993)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Tiga Pendekar Fantasi' (1994)'</a></li>
+						<li><a href="#">Doraemon: Buku Harian Nobita '(1995)'</a></li>
+						<li><a href="#">Doraemon: Nobita dan Kereta Api Galaksi '(1996)'</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Negeri Mainan '(1997)'</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Laut Selatan '(1998)'</a></li>
+						<li><a href="#">Doraemon: Nobita Tersesat di Luar Angkasa (1999)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Legenda Raja Matahari (2000)</a></li>
+						<li><a href="#">Doraemon: Nobita di Kerajaan Burung (2001)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Robot Kingdom (2002)</a></li>
+						<li><a href="#">Doraemon: Nobita di Negeri Angin (2003)</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Negeri Wan Nyan (2004)</a></li>
+					</ul>
+			</article>
+			<article id="erabaru">
+				<h2 id="erabaru">2006-2020</h2>
+					<ul>
+						<li><a href="#">Doraemon: Dinosaurus Nobita 2006 (versi remake, 2006)</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Dunia Sihir (versi remake, 2007)</a></li>
+						<li><a href="#">Doraemon: Kisah Nobita dan Manusia Negeri Hijau (2008)</a></li>
+						<li><a href="#">Doraemon: Pertarungan Nobita di Planet Koya-Koya (versi remake, 2009)</a></li>
+						<li><a href="#">Doraemon: Nobita dan pertempuran Mermaid King (2010)</a></li>
+						<li><a href="#">Doraemon: Pertarungan Nobita Melawan Pasukan Robot Planet Megathobia (versi remake, 2011)</a></li>
+						<li><a href="#">Doraemon: Nobita Petualangan Di Pulau Keajaiban Hewan (2012</a>)</li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Museum Alat-alat Ajaib (2013)</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita yang Penuh Misteri di Hutan Afrika (versi remake, 2014)</a></li>
+						<li><a href="#">Stand by Me Doraemon (2014)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Pahlawan Luar Angkasa (2015)</a></li>
+						<li><a href="#">Doraemon: Nobita dan Kelahiran Jepang (versi remake, 2016)</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Benua Antartika Kachi Kochi (2017)</a></li>
+						<li><a href="#">Doraemon: Petualangan Nobita di Pulau Harta Karun (2018)</a></li>
+						<li><a href="#">Doraemon: Penjelajahan Nobita di Bulan (2019)</a></li>
+						<li><a href="#">Doraemon: Dinosaurus Baru Nobita (2020)</a></li>
+						<li><a href="#">Stand by Me Doraemon 2 (2020)</a></li>
+					</ul>
+			</article>
+		</div>
+		<aside>
+			<article>
+				<header>
+					<h2>Profil Saya</h2>
+					<figure>
+						<img src="assets/images/fotosaya.png" class="image-diri">
+					</figure>
+				</header>
+				<section>
+					<table>
+						<tr>
+							<th>Nama Lengkap</th>
+							<td>Fadiyah Adiningsih</td>
+						</tr>
+						<tr>
+							<th>Tanggal Lahir</th>
+							<td>20 September 2001</td>
+						</tr>
+						<tr>
+							<th>Username</th>
+							<td>@fadiyaha30</td>
+						</tr>
+						<tr>
+							<th>Email</th>
+							<td>fadiyahadiningsih90@gmail.com</td>
+						</tr>
+					</table>
+				</section>
+			</article>
+		</aside>
+	</main>
+	<footer>
+      <img src="assets/images/doraemondkkdua.png" class="footer-logo">
+      <div class="footer-list">
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Service</a></li>
+          <li><a href="#">Contact us</a></li>
+        </ul>
+      </div>
+    </footer>
+	<script src="assets/script/script.js"></script>
+</body>
+</html>
